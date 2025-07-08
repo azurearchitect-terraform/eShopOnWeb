@@ -7,8 +7,8 @@ resources:
 
 variables:
   azureServiceConnection: 'azure subs'
-  resourceGroup: 'AZ400-RG1'
-  location: 'centralus'
+  resourceGroup: 'rg-eshoponweb-harnish'
+  location: 'eastus'
   subscriptionId: '0bb583c1-341e-4216-b528-04bc38522e32'
 
 stages:
