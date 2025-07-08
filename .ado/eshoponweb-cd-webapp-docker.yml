@@ -7,9 +7,9 @@ resources:
 
 variables:
   azureServiceConnection: 'azure subs'
-  resourceGroup: 'rg-az400-container-NAME'
+  resourceGroup: 'AZ400-RG1'
   location: 'centralus'
-  subscriptionId: 'YOUR-SUBSCRIPTION-ID'
+  subscriptionId: '0bb583c1-341e-4216-b528-04bc38522e32'
 
 stages:
 - stage: Deploy
